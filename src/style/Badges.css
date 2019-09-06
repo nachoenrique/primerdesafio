@@ -1,0 +1,32 @@
+.Badges__hero {
+  width: 100%;
+  padding: 2rem 0;
+  background:  rgb(46, 193, 238);
+  background-repeat: repeat;
+  margin-bottom: 1rem;
+}
+
+.Badges__hero>.Badges__container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.Badges__container {
+
+  max-width: 580px;
+  margin: 0 auto;
+  padding: 0 1rem;
+  width: 20%;
+  height: 20%;
+}
+
+.Badges_conf-logo {
+  margin-bottom: 2rem;
+}
+
+.Badges__buttons {
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 1rem;
+}
